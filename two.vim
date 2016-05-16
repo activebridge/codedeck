@@ -16,7 +16,7 @@ function! Diamond
   let sign = '♦'
 endfunction
 
-function! Heart
+function! Club
   let rank = 2
   let color = 'black'
   let sign = '♣'

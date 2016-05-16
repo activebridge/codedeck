@@ -18,35 +18,20 @@ I.e. its value and suit
 There is list of program languages:
 
 | Program Language | Card Name | Developer |
-
-| ------------------------------- | ------------------- | ---------------------- |
-
+|-------------------------------|-------------------|----------------------|
 | Ruby | Joker | Bilan I. |
-
 | Java Script | Aces | Mihailovskiy P.  |
-
 | SQL | Kings | Voloshyn | 
-
 | HTML5 | Dames | Galushka A.  |
-
 | Assembly | Jacks | Partitskiy V.  |
-
 | Java | 10 | Tsibulko |
-
 | Python | 9 | Umanets I.  |
-
 | PHP | 8 | Surzhko E.  |
-
 | CSS | 7 | Bondarenko V. |
-
 | Bash | 6 | Makodzeba D.  |
-
 | C++ | 5 | Partitskiy A.  |
-
 | Groovy | 4 | Milevskiy R. |
-
 | Scala | 3 | Kovtun V. |
-
 | Viml | 2 | Galushka A.|
 
 

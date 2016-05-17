@@ -1,23 +1,23 @@
 card = dict(
   rank = 9,
-  suit = 'Spade',
+  suit = 'Spades',
   color = 'black')
 print(card)
 
 card = dict(
   rank = 9,
-  suit = 'Club',
+  suit = 'Clubs',
   color = 'black')
 print(card)
 
 card = dict(
   rank = 9,
-  suit = 'Diamond',
+  suit = 'Diamonds',
   color = 'red')
 print(card)
 
 card = dict(
   rank = 9,
-  suit = 'Heart',
+  suit = 'Hearts',
   color = 'red')
 print(card)

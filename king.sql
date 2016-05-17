@@ -1,11 +1,11 @@
-INSERT INTO kings (type, color)
-VALUES ('Spade', 'black');
+INSERT INTO kings (suit, color)
+VALUES ('Spades', 'black');
 
-INSERT INTO kings (type, color)
-VALUES ('Club', 'black');
+INSERT INTO kings (suit, color)
+VALUES ('Clubs', 'black');
 
-INSERT INTO kings (type, color)
-VALUES ('Diamond', 'red');
+INSERT INTO kings (suit, color)
+VALUES ('Diamonds', 'red');
 
-INSERT INTO kings (type, color)
-VALUES ('Heart', 'red');
+INSERT INTO kings (suit, color)
+VALUES ('Hearts', 'red');

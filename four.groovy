@@ -1,23 +1,23 @@
 class Card
-  String suit() { 'Spade' }
+  String suit() { 'Spades' }
   int rank() { 4 }
   String color() { 'black' }
 end
 
 class Card
-  String suit() { 'Heart' }
+  String suit() { 'Hearts' }
   int rank() { 4 }
   String color() { 'red' }
 end
 
 class Card
-  String suit() { 'Diamond' }
+  String suit() { 'Diamonds' }
   int rank() { 4 }
   String color() { 'red' }
 end
 
 class Card
-  String suit() { 'Club' }
+  String suit() { 'Clubs' }
   int rank() { 4 }
   String color() { 'black' }
 end

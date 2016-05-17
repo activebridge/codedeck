@@ -1,22 +1,22 @@
-.spade:before {
+.spades:before {
   font-size: 7ex;
   color: #000000;
   content: '♠';
 }
 
-.club:before {
+.clubs:before {
   font-size: 7ex;
   color: black;
   content: '♣';
 }
 
-.diamond:before {
+.diamonds:before {
   font-size: 7ex;
   color: #FF0000;
   content: '♦';
 }
 
-.heart:before {
+.hearts:before {
   font-size: 7ex;
   color: red;
   content: '♥';

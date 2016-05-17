@@ -1,23 +1,23 @@
 var card = {
-  suit: 'Spade',
+  suit: 'Spades',
   name: 'Ace',
   color: 'black'
 };
 
 var card = {
-  suit: 'Heart',
+  suit: 'Hearts',
   name: 'Ace',
   color: 'red'
 };
 
 var card = {
-  suit: 'Diamond',
+  suit: 'Diamonds',
   name: 'Ace',
   color: 'red'
 };
 
 var card = {
-  suit: 'Club',
+  suit: 'Clubs',
   name: 'Ace',
   color: 'black'
 };

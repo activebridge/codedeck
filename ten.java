@@ -1,22 +1,22 @@
-class Spade {
+class Spades {
   public int value() {
     return 10;
   }
 }
 
-class Heart {
+class Hearts {
   public int value() {
     return 10;
   }
 }
 
-class Diamond {
+class Diamonds {
   public int value() {
     return 10;
   }
 }
 
-class Club {
+class Clubs {
   public int value() {
     return 10;
   }

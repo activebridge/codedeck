@@ -1,27 +1,23 @@
-class Card {
-  public:
-    string suit() { return "Spades"; }
-    string name() { return "Five"; }
-    string color() { return "black"; }
-};
+struct CARD {
+  int rank;
+  string suit;
+  string color;
+} c = { 5, "spades", "black"};
 
-class Card {
-  public:
-    string suit() { return "Hearts"; }
-    string name() { return "Five"; }
-    string color() { return "red"; }
-};
+struct CARD {
+  int rank;
+  string suit;
+  string color;
+} c = { 5, "hearts", "red"};
 
-class Card {
-  public:
-    string suit() { return "Diamonds"; }
-    string name() { return "Five"; }
-    string color() { return "red"; }
-};
+struct CARD {
+  int rank;
+  string suit;
+  string color;
+} c = { 5, "diamonds", "red"};
 
-class Card {
-  public:
-    string suit() { return "Clubs"; }
-    string name() { return "Five"; }
-    string color() { return "black"; }
-};
+struct CARD {
+  int rank;
+  string suit;
+  string color;
+} c = { 5, "clubs", "black"};

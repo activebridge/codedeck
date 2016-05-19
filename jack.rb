@@ -1,31 +1,31 @@
 class Jack
-  def initialize(suit)
-    puts "#{suit} black"
+  attr_accessor :suit
+
+  def initialize
+    suit = 'Spades'
   end
 end
-
-Jack.new('Spades')
 
 class Jack
-  def initialize(suit)
-    puts "#{suit} red"
+  attr_accessor :suit
+
+  def initialize
+    suit = 'Hearts'
   end
 end
-
-Jack.new('Hearts')
 
 class Jack
-  def initialize(suit)
-    puts "#{suit} red"
+  attr_accessor :suit
+
+  def initialize
+    suit = 'Diamonds'
   end
 end
-
-Jack.new('Diamonds')
 
 class Jack
-  def initialize(suit)
-    puts "#{suit} black"
+  attr_accessor :suit
+
+  def initialize
+    suit = 'Clubs'
   end
 end
-
-Jack.new('Clubs')
